@@ -1,0 +1,3 @@
+C:/Users/umut3/CLionProjects/deneme/cmake-build-debug/CMakeFiles/deneme.dir
+C:/Users/umut3/CLionProjects/deneme/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/umut3/CLionProjects/deneme/cmake-build-debug/CMakeFiles/rebuild_cache.dir
